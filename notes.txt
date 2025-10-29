@@ -1,1 +1,3 @@
 These are my notes for Exercise 1! GitHub is successfully cloned.  
+
+This is the FEATURE version (for rebase).
