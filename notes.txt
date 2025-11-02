@@ -1,6 +1,10 @@
 These are my notes for Exercise 1! GitHub is successfully cloned.  
 
+feature/add-greeting
+This is the FEATURE version (for rebase).
+
 HEAD
 This is the MAIN version (for rebase).
 This is the FEATURE version (for rebase).
 2a5ea09 (Update notes.txt)
+main
